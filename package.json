@@ -3,5 +3,9 @@
   "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
-  "author": "Wistak"
+  "author": "Wistak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wistako/id-generator"
+  }
 }
