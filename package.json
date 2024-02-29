@@ -1,6 +1,6 @@
 {
   "name": "@wistak/id-generator",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "author": "Wistak",
